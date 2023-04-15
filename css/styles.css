@@ -1,0 +1,38 @@
+#body {
+    background-color: lightskyblue;
+}
+
+#main {
+    margin-top: 75px;
+    text-align: center;
+    font-family:'Lucida Sans';
+}
+
+#image {
+    margin-left: 175px;
+}
+
+#paragraph {
+    border: 2px dotted cyan;
+    padding: 10px;
+    margin-left: 175px;
+    margin-right: 175px;
+    font-family:'Lucida Sans';
+}
+
+#list {
+    font-size: 18px;
+    margin-left: 375px;
+    margin-top: -225px;
+
+}
+
+#video {
+    margin-left: 175px;
+    margin-top: 75px;
+}
+
+#link {
+    margin-left: 50px;
+    margin-top: 50px;
+}
